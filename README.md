@@ -28,3 +28,5 @@ Before running this project, ensure you have the following installed:
    git clone <repository-url>
    cd <repository-directory>
    pip install -r requirements.txt
+
+<img src="https://2acrestudios.com/wp-content/uploads/2024/05/Screenshot-2024-05-11-at-9.41.13 AM-2.png" />
