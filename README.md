@@ -1,5 +1,6 @@
 # Astrology Horoscope Generator Using Ollama
 
+<img src="https://2acrestudios.com/wp-content/uploads/2024/05/00003-1748303672.png" align="right" style="300px;" />
 This Python project is designed to generate personalized horoscopes based on astrological signs using a mix of modern and whole sign astrology. It leverages unique author styles, including those of popular authors, to create distinctive daily readings. The application can generate horoscopes for individual users, handle bulk generation from a CSV file, and create combined horoscopes for two individuals, reflecting on their synergy in a specified area of interest.
 
 ## Features
